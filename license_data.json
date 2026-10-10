@@ -122,13 +122,13 @@
     },
     "OMG-YSRJDKNC-803": {
         "duration": 365,
-        "hwid": null,
-        "status": "unused",
+        "hwid": "80950BF7A3BAA021B1938EB93744A5B8",
+        "status": "active",
         "note": "主机1直播",
         "create_date": 1791605803,
-        "activate_date": null,
-        "expire_date": null,
-        "last_session": null,
+        "activate_date": 1791619147,
+        "expire_date": 1823155147,
+        "last_session": "6d82399f-21b1-40d5-9ced-49bf90fec38f",
         "last_heartbeat": null
     }
 }
