@@ -1,0 +1,134 @@
+{
+    "OMG-S27AY53R-836": {
+        "duration": 365,
+        "hwid": "",
+        "status": "active",
+        "note": "密密麻麻3",
+        "create_date": 1770204836,
+        "activate_date": 1775397856,
+        "expire_date": 1806933856,
+        "last_session": "f26f1157-af30-4e50-9635-d1fa49c29abf",
+        "last_heartbeat": null
+    },
+    "OMG-FTTR3P3V-706": {
+        "duration": 365,
+        "hwid": "C1615124B66A48107A9FBBCCB6648859",
+        "status": "active",
+        "note": "密密麻麻2.18",
+        "create_date": 1771423706,
+        "activate_date": 1775397839,
+        "expire_date": 1806933839,
+        "last_session": "7f6d7b7b-edae-4c4a-b9b0-d531695132ca",
+        "last_heartbeat": null
+    },
+    "OMG-SE3V5JD7-727": {
+        "duration": 365,
+        "hwid": null,
+        "status": "unused",
+        "note": "密密麻麻2",
+        "create_date": 1771423727,
+        "activate_date": null,
+        "expire_date": null,
+        "last_session": null,
+        "last_heartbeat": null
+    },
+    "OMG-3RRSKAJ4-11": {
+        "duration": 365,
+        "hwid": "BBD2EE3B024FAE80B1EFC1AB22C910CA",
+        "status": "active",
+        "note": "测试",
+        "create_date": 1773379011,
+        "activate_date": 1773379024,
+        "expire_date": 1804915024,
+        "last_session": "eee0aa6a-a525-4ebe-b57c-f28687d421c4",
+        "last_heartbeat": null
+    },
+    "OMG-LZMJSNN6-990": {
+        "duration": 365,
+        "hwid": "BBD2EE3B024FAE80B1EFC1AB22C910CA",
+        "status": "active",
+        "note": "自动上传",
+        "create_date": 1782135990,
+        "activate_date": 1782136000,
+        "expire_date": 1813672000,
+        "last_session": "d1c6eaca-b4f4-48f2-ae7c-1ba10a3d9a5f",
+        "last_heartbeat": null
+    },
+    "OMG-52UXDUPC-582": {
+        "duration": 365,
+        "hwid": "2197428EA8FCAAEBE40D893608A6C5B8",
+        "status": "active",
+        "note": "小芳自动上传",
+        "create_date": 1783492582,
+        "activate_date": 1783492617,
+        "expire_date": 1815028617,
+        "last_session": "65ca1259-8c89-4301-9f57-ddb7263a6979",
+        "last_heartbeat": null
+    },
+    "OMG-7YG73BUG-913": {
+        "duration": 365,
+        "hwid": "80950BF7A3BAA021B1938EB93744A5B8",
+        "status": "active",
+        "note": "起号专用",
+        "create_date": 1784362913,
+        "activate_date": 1784362943,
+        "expire_date": 1815898943,
+        "last_session": "750ab0fc-82ba-4bb5-9819-64ec1ab9a047",
+        "last_heartbeat": null
+    },
+    "OMG-UM45L4G7-464": {
+        "duration": 365,
+        "hwid": "20CFA29550AABC56892870B6AA3CEA67",
+        "status": "active",
+        "note": "小帅起号2",
+        "create_date": 1784610464,
+        "activate_date": 1784610517,
+        "expire_date": 1816146517,
+        "last_session": "fc1fa996-f17d-42a9-bb5c-7b517a509f5f",
+        "last_heartbeat": null
+    },
+    "OMG-VEJOSSNC-6": {
+        "duration": 365,
+        "hwid": "2197428EA8FCAAEBE40D893608A6C5B8",
+        "status": "active",
+        "note": "小芳直播",
+        "create_date": 1784790006,
+        "activate_date": 1784790062,
+        "expire_date": 1816326062,
+        "last_session": "f152627e-d82c-4b33-bb28-51d06d0cb5b4",
+        "last_heartbeat": null
+    },
+    "OMG-VGSYNJCO-778": {
+        "duration": 365,
+        "hwid": "A001FDFC8CA2FC3B50C35F5FCB241C3E",
+        "status": "active",
+        "note": "电脑2测试用",
+        "create_date": 1789374778,
+        "activate_date": 1789375867,
+        "expire_date": 1820911867,
+        "last_session": "2a6801d8-57be-4da0-b862-b04b7a58b3b4",
+        "last_heartbeat": null
+    },
+    "OMG-F2IYH7RO-374": {
+        "duration": 30,
+        "hwid": "986EED7ED9E3A9C3E51B61181BCBFCDF",
+        "status": "active",
+        "note": "小帅10.8",
+        "create_date": 1791442374,
+        "activate_date": 1791450139,
+        "expire_date": 1794042139,
+        "last_session": "6dcf6491-87e8-4daa-add4-9e631a6b2e68",
+        "last_heartbeat": null
+    },
+    "OMG-YSRJDKNC-803": {
+        "duration": 365,
+        "hwid": null,
+        "status": "unused",
+        "note": "主机1直播",
+        "create_date": 1791605803,
+        "activate_date": null,
+        "expire_date": null,
+        "last_session": null,
+        "last_heartbeat": null
+    }
+}
