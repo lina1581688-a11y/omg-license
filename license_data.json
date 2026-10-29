@@ -135,8 +135,10 @@
         "status": "active",
         "duration": 13,
         "note": "",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1793251656
+        "hwid": "CB2ED4B7D0FBB1F2B99966F10FC854BE",
+        "last_session": "f0190d40-9b0c-4083-a112-5c885c7a3adc",
+        "create_date": 1793251656,
+        "activate_date": 1793251671,
+        "expire_date": 1794374871
     }
 }
