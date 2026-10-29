@@ -130,5 +130,13 @@
         "expire_date": 1823155147,
         "last_session": "6fad5b91-0732-49c1-a089-ba56411f47e2",
         "last_heartbeat": null
+    },
+    "OMG-D7JQWJYL-JVZ": {
+        "status": "active",
+        "duration": 13,
+        "note": "",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793251656
     }
 }
