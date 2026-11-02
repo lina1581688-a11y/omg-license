@@ -145,8 +145,10 @@
         "status": "active",
         "duration": 8,
         "note": "小帅2",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1793589144
+        "hwid": "BBA27110A77FB25767EEC2A269192FC9",
+        "last_session": "40675bee-eb87-4a87-bdcd-c4f8dc3f7031",
+        "create_date": 1793589144,
+        "activate_date": 1793589156,
+        "expire_date": 1794280356
     }
 }
