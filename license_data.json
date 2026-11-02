@@ -166,5 +166,13 @@
         "hwid": null,
         "last_session": null,
         "create_date": 1793589605
+    },
+    "OMG-3SDMHHTX-L5T": {
+        "status": "active",
+        "duration": 10,
+        "note": "小帅5",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793589618
     }
 }
