@@ -174,5 +174,13 @@
         "hwid": null,
         "last_session": null,
         "create_date": 1793589618
+    },
+    "OMG-HA6MH64Y-2A3": {
+        "status": "active",
+        "duration": 10,
+        "note": "小帅6",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793589631
     }
 }
