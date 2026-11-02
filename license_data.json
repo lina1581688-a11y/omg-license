@@ -150,13 +150,5 @@
         "create_date": 1793589144,
         "activate_date": 1793589156,
         "expire_date": 1794280356
-    },
-    "OMG-6TGTBJ2A-LZ9": {
-        "status": "active",
-        "duration": 8,
-        "note": "小帅3",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1793589511
     }
 }
