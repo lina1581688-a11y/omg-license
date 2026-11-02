@@ -155,9 +155,11 @@
         "status": "active",
         "duration": 10,
         "note": "小帅3",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1793589588
+        "hwid": "A8C4B02EBF72EAB99B66BD59B3C39805",
+        "last_session": "58f6e639-f67e-43bf-8329-9aeb0bd4b9f9",
+        "create_date": 1793589588,
+        "activate_date": 1793597652,
+        "expire_date": 1794461652
     },
     "OMG-9FXUKYA6-9LL": {
         "status": "active",
