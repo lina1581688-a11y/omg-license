@@ -182,5 +182,13 @@
         "hwid": null,
         "last_session": null,
         "create_date": 1793589631
+    },
+    "OMG-5XC69MAG-FN7": {
+        "status": "active",
+        "duration": 10,
+        "note": "小帅7",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793589646
     }
 }
