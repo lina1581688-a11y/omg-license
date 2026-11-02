@@ -165,9 +165,11 @@
         "status": "active",
         "duration": 10,
         "note": "小帅4",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1793589605
+        "hwid": "986EED7ED9E3A9C3E51B61181BCBFCDF",
+        "last_session": "c4c5e656-5d67-4301-afc7-d92f5890d52e",
+        "create_date": 1793589605,
+        "activate_date": 1793597757,
+        "expire_date": 1794461757
     },
     "OMG-3SDMHHTX-L5T": {
         "status": "active",
