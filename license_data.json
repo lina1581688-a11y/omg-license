@@ -140,5 +140,13 @@
         "create_date": 1793251656,
         "activate_date": 1793251671,
         "expire_date": 1794374871
+    },
+    "OMG-56ZF2G3P-4TX": {
+        "status": "active",
+        "duration": 8,
+        "note": "小帅2",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793589144
     }
 }
