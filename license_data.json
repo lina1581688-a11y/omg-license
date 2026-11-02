@@ -158,5 +158,13 @@
         "hwid": null,
         "last_session": null,
         "create_date": 1793589588
+    },
+    "OMG-9FXUKYA6-9LL": {
+        "status": "active",
+        "duration": 10,
+        "note": "小帅4",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1793589605
     }
 }
