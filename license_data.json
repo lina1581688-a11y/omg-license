@@ -109,17 +109,6 @@
         "last_session": "06336102-c97b-4b67-a3ba-ed92ba704eab",
         "last_heartbeat": null
     },
-    "OMG-F2IYH7RO-374": {
-        "duration": 30,
-        "hwid": "986EED7ED9E3A9C3E51B61181BCBFCDF",
-        "status": "active",
-        "note": "小帅10.8",
-        "create_date": 1791442374,
-        "activate_date": 1791450139,
-        "expire_date": 1794042139,
-        "last_session": "6dcf6491-87e8-4daa-add4-9e631a6b2e68",
-        "last_heartbeat": null
-    },
     "OMG-YSRJDKNC-803": {
         "duration": 365,
         "hwid": "80950BF7A3BAA021B1938EB93744A5B8",
@@ -130,75 +119,5 @@
         "expire_date": 1823155147,
         "last_session": "0d0f40fd-3797-4512-b7d8-b1c80404cc1b",
         "last_heartbeat": null
-    },
-    "OMG-D7JQWJYL-JVZ": {
-        "status": "active",
-        "duration": 13,
-        "note": "",
-        "hwid": "CB2ED4B7D0FBB1F2B99966F10FC854BE",
-        "last_session": "db139d76-0b03-4a30-be3d-21d1e599512c",
-        "create_date": 1793251656,
-        "activate_date": 1793251671,
-        "expire_date": 1794374871
-    },
-    "OMG-56ZF2G3P-4TX": {
-        "status": "active",
-        "duration": 8,
-        "note": "小帅2",
-        "hwid": "BBA27110A77FB25767EEC2A269192FC9",
-        "last_session": "d86a5c95-8b4d-46ef-9659-5c616d73a7f5",
-        "create_date": 1793589144,
-        "activate_date": 1793589156,
-        "expire_date": 1794280356
-    },
-    "OMG-YVVEYD6X-MBY": {
-        "status": "active",
-        "duration": 10,
-        "note": "小帅3",
-        "hwid": "A8C4B02EBF72EAB99B66BD59B3C39805",
-        "last_session": "db1a9938-1fc9-40dd-b81f-ec9ea764288f",
-        "create_date": 1793589588,
-        "activate_date": 1793597652,
-        "expire_date": 1794461652
-    },
-    "OMG-9FXUKYA6-9LL": {
-        "status": "active",
-        "duration": 10,
-        "note": "小帅4",
-        "hwid": "986EED7ED9E3A9C3E51B61181BCBFCDF",
-        "last_session": "84a6ec8e-3b1c-4897-a6da-4cea18d2786b",
-        "create_date": 1793589605,
-        "activate_date": 1793597757,
-        "expire_date": 1794461757
-    },
-    "OMG-3SDMHHTX-L5T": {
-        "status": "active",
-        "duration": 10,
-        "note": "小帅5",
-        "hwid": "B184B200989DC3691A52FCA3973330F8",
-        "last_session": "18a1ccb9-7a1b-429b-9aa4-abf6ab698178",
-        "create_date": 1793589618,
-        "activate_date": 1793598806,
-        "expire_date": 1794462806
-    },
-    "OMG-HA6MH64Y-2A3": {
-        "status": "active",
-        "duration": 10,
-        "note": "小帅6",
-        "hwid": "905D97F6DF21A62EE0BBAE999F5310A3",
-        "last_session": "7a723d4f-6378-4a45-add4-433b84245bd6",
-        "create_date": 1793589631,
-        "activate_date": 1793598846,
-        "expire_date": 1794462846
-    },
-    "OMG-5XC69MAG-FN7": {
-        "status": "active",
-        "duration": 10,
-        "note": "小帅7",
-        "hwid": "8BF3CBB4D61FB30456A90914261FFE64",
-        "last_session": "7a31a549-4da8-49d9-9518-03691aa61131",
-        "create_date": 1793589646,
-        "activate_date": 1793598869,
-        "expire_date": 1794462869
     }
 }
