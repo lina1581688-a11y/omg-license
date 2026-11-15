@@ -124,8 +124,10 @@
         "status": "active",
         "duration": 30,
         "note": "小帅直播",
-        "hwid": null,
-        "last_session": null,
-        "create_date": 1794749232
+        "hwid": "20CFA29550AABC56892870B6AA3CEA67",
+        "last_session": "5f08d414-f4c4-47e2-919a-9c3316d8222b",
+        "create_date": 1794749232,
+        "activate_date": 1794749243,
+        "expire_date": 1797341243
     }
 }
