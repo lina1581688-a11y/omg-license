@@ -119,5 +119,13 @@
         "expire_date": 1823155147,
         "last_session": "0d0f40fd-3797-4512-b7d8-b1c80404cc1b",
         "last_heartbeat": null
+    },
+    "OMG-Z49AU97E-N9G": {
+        "status": "active",
+        "duration": 30,
+        "note": "小帅直播",
+        "hwid": null,
+        "last_session": null,
+        "create_date": 1794749232
     }
 }
